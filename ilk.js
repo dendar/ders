@@ -1,0 +1,13 @@
+console.log ("merhaba dunya")
+console.log (typeof 4)
+console.log (3+ "4")
+console.log ({ })
+console.log ([])
+console.log ( function(){})
+console.log ( console.log)
+console.log (null)
+console.log (undefined)
+var a
+console.log ("e"+{})
+console.log ((2).toString())
+console.error ("s")
